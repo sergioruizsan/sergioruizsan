@@ -5,6 +5,7 @@ front-end web developer, although when needed (or when he wants a break) he swit
 
 ### Some hobbies
 
+- ✏️ Write articles
 - 📚 Read geopolitical and historical books
 - 🔌 Play with System On Chip or Microcontrollers devices for IoT
 - 🔭 Astronomy
@@ -22,6 +23,11 @@ front-end web developer, although when needed (or when he wants a break) he swit
 >
 > ― <cite>Gerald Weinberg</cite>
 
+<p align="left">
+  <a href="https://medium.com/@sergioruizsan" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sergioruizsan&count_private=false&show_icons=true&include_all_commits=true)
 
