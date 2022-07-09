@@ -29,6 +29,4 @@ front-end web developer, although when needed (or when he wants a break) he swit
   </a>
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sergioruizsan&count_private=false&show_icons=true&include_all_commits=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioruizsan&hide=TeX&layout=compact)
