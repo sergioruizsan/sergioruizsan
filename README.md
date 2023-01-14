@@ -5,7 +5,7 @@ front-end web developer, although when needed (or when I want a break) I switch 
 
 ### Some hobbies
 
-- 📚 Read books. I really enjoy tech (related to my field) and human behaviour/relationships topics. Less often, but equally interesting I like geopolitics and historical topics.
+- 📚 Read books. I really enjoy tech (related to my field) and human behaviour/relationships topics. Less often, but equally interesting, I look at geopolitics and historical readings.
 - ✏️ Write few articles, occasionally
 - 🔌 Play with System On Chip or Microcontrollers devices for IoT
 - 🔭 Astronomy
