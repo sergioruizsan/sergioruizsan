@@ -1,17 +1,20 @@
 ### What is Sergio doing? 😄
 
-If the day had more than 24 hours he would like to learn everything in the world hahah, so... most of the time you will just see him working as a 
-front-end web developer, although when needed (or when he wants a break) he switches to back-end.
+If the day had more than 24 hours I would like to learn everything in the world hahah, but I am a human, so... most of the time you will just see me working as a 
+front-end web developer, although when needed (or when I want a break) I switch to back-end or devops.
 
 ### Some hobbies
 
-- ✏️ Write articles
-- 📚 Read geopolitical and historical books
+- 📚 Read books. I really enjoy tech (related to my field) and human behaviour/relationships topics. Less often, but equally interesting I like geopolitics and historical topics.
+- ✏️ Write few articles, occasionally
 - 🔌 Play with System On Chip or Microcontrollers devices for IoT
 - 🔭 Astronomy
 
-
 ### Some favourite famous quotes:
+
+>In my walks, every man I meet is my superior in some way, and in that I learn from him.
+>
+> ― <cite>Ralph Waldo Emerson</cite>
 
 >If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem 
 >and 5 minutes thinking about solutions.
